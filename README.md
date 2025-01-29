@@ -26,7 +26,49 @@ The Glamora Frontend is designed to offer an intuitive and seamless experience t
 - **Tailwind CSS**: For utility-first CSS framework.
 - **Vite**: For fast build tool and development server.
 
-📂 Project Directory Structure - Glamora Frontend This project is a React-based e-commerce application built with Vite, Redux Toolkit, and Tailwind CSS. Below is an overview of the directory structure: Root Directory (vai844101-glamora-frontend/) Configuration & Setup Files: package.json – Project dependencies & scripts vite.config.js – Vite configuration tailwind.config.js – Tailwind CSS setup vercel.json – Deployment configuration Entry Files: index.html – Main HTML entry point main.jsx – React app entry file App.jsx – Root component 📌 src/ - Main Application Code 🔹 components/ – Reusable UI components (Navbar, Footer, Login, Signup, etc.) 🔹 pages/ – Different pages (Home, Shop, Category, Dashboard, Blog, Search) 🔹 redux/ – State management using Redux Toolkit 🔹 routers/ – App routing with React Router 🔹 utils/ – Helper functions (API URLs, date formatting) 🔹 data/ – JSON data files for products, blogs, etc. 📌 public/ - Static Assets Stores images, icons, and other public files. 📌 redux/features/ - State Management Modules auth/ – User authentication cart/ – Shopping cart state orders/ – Order management products/ – Product state reviews/ – Customer reviews 🚀 Key Features ✅ User Authentication (Login/Signup) ✅ Product Browsing & Filtering ✅ Shopping Cart & Checkout ✅ Admin Dashboard (Manage Orders, Products, Users) ✅ User Dashboard (Orders, Profile, Reviews) ✅ Responsive UI with Tailwind CSS
+📂 Project Directory Structure - Glamora Frontend
+This project is a React-based e-commerce application built with Vite, Redux Toolkit, and Tailwind CSS. Below is an overview of the directory structure.
+
+Root Directory (vai844101-glamora-frontend/).
+Configuration & Setup Files.
+
+package.json – Project dependencies & scripts.
+vite.config.js – Vite configuration.
+tailwind.config.js – Tailwind CSS setup.
+vercel.json – Deployment configuration.
+
+
+Entry Files:
+
+index.html – Main HTML entry point.
+main.jsx – React app entry file.
+App.jsx – Root component.
+
+📌 src/ - Main Application Code.
+🔹 components/ – Reusable UI components (Navbar, Footer, Login, Signup, etc.).
+🔹 pages/ – Different pages (Home, Shop, Category, Dashboard, Blog, Search).
+🔹 redux/ – State management using Redux Toolkit.
+🔹 routers/ – App routing with React Router.
+🔹 utils/ – Helper functions (API URLs, date formatting).
+🔹 data/ – JSON data files for products, blogs, etc.
+
+📌 public/ - Static Assets.
+Stores images, icons, and other public files.
+
+📌 redux/features/ - State Management Modules.
+auth/ – User authentication.
+cart/ – Shopping cart state.
+orders/ – Order management.
+products/ – Product state.
+reviews/ – Customer reviews.
+
+🚀 Key Features.
+✅ User Authentication (Login/Signup).
+✅ Product Browsing & Filtering.
+✅ Shopping Cart & Checkout.
+✅ Admin Dashboard (Manage Orders, Products, Users).
+✅ User Dashboard (Orders, Profile, Reviews).
+✅ Responsive UI with Tailwind CSS.
 
 ## Installation
 To set up the project locally, follow these steps:
