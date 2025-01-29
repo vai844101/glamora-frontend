@@ -3,7 +3,7 @@ import App from "../App";
 import Home from "../pages/home/Home";
 import CategoryPage from "../pages/category/CategoryPage";
 import Search from "../pages/search/Search";
-import ShopPage from "../pages/shop/shopPage";
+import ShopPage from "../pages/shop/ShopPage";
 import SingleProduct from "../pages/shop/productDetails/SingleProduct";
 import Login from "../components/Login";
 import Signup from "../components/Signup";
