@@ -1,5 +1,8 @@
 
 # Glamora Frontend
+![Screenshot 2025-01-30 001111](https://github.com/user-attachments/assets/3bda5134-47f2-4e64-a6b3-038678d58767)
+
+
 
 Welcome to the Glamora Frontend repository. This project is the frontend part of the Glamora platform, providing a sleek and responsive user interface for managing various functionalities.
 
